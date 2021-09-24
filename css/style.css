@@ -41,8 +41,6 @@ ul{
 
 }
 
-
-
 li{
 
     display: block;
@@ -59,22 +57,12 @@ li{
 
 .coluna {
     display: flex;
+    justify-content: center;
     flex-direction: column;
 }
 
 .linha {
     display: flex;
+    justify-content: center;
     flex-direction: row;
-}
-
-.vestibulares{
-    display:flex;
-    justify-content: center;
-    flex-direction: column;
-}
-
-.informacoes{
-    display:flex;
-    justify-content: center;
-    flex-direction: column;
 }
