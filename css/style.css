@@ -57,3 +57,8 @@ li{
     border-radius: .5rem;
 }
 
+.ul-materia{
+    display:flex;
+    justify-content: center;
+    flex-direction: row;
+}
