@@ -62,3 +62,15 @@ li{
     justify-content: center;
     flex-direction: row;
 }
+
+.vestibulares{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.informacoes{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+}
