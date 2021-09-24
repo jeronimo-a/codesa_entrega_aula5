@@ -33,15 +33,17 @@ main{
     align-items: center;
 }
 
-ul{
-
+.vestibulares{
     display:flex;
     justify-content: center;
     flex-direction: column;
-
 }
 
-
+.informacoes{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+}
 
 li{
 
@@ -49,9 +51,6 @@ li{
     margin: 1rem;
     border: .1rem solid black;
     padding: 1rem 1rem 1rem 1rem;
-    background-size: 2rem 2rem;
-    background-repeat: no-repeat;
-    background-position: 1rem 1rem;
     font-size: 1.3rem;
     text-decoration: none;
     border-radius: .5rem;
