@@ -13,6 +13,7 @@ header{
     font-size: 1.5rem;
     height: 3rem;
     border-bottom: .1rem solid black;
+    flex-direction: column;
 
 }
 
