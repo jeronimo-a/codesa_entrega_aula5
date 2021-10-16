@@ -1,6 +1,6 @@
 
 body {
-    background-color: white;
+    background-color: white
 }
 
 
@@ -15,7 +15,9 @@ header{
     border-bottom: .1rem solid black;
     flex-direction: column;
     font-family: 'Spartan', sans-serif;
-
+    background-color: #61DCF2; 
+    background-color:rgb(97, 220, 242);
+    background-color: hsl(189,85%,66%);
 }
 
 img{
@@ -56,6 +58,9 @@ li{
     text-decoration: none;
     border-radius: .5rem;
     font-family: 'Bodoni Moda', serif;
+    background-color: #428C99; 
+    background-color: rgb(66, 140, 153);
+    background-color: hsl(189,40%,43%);
 }
 
 .coluna {
