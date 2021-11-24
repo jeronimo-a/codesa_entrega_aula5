@@ -12,7 +12,7 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     height: 3rem;
     border-bottom: .1rem solid;
     border-color: #CF5E4A;
@@ -40,6 +40,7 @@ main{
     justify-content: space-evenly;
     align-items: center;
     font-family: 'Spartan', sans-serif;
+    color: black;
 }
 
 ul{
@@ -62,8 +63,9 @@ li{
     background-size: 2rem 2rem;
     background-repeat: no-repeat;
     background-position: 1rem 1rem;
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     text-decoration: none;
+    text-align: center;
     border-radius: .5rem;
     font-family: 'Bodoni Moda', serif;
     background-color: #428C99; 
